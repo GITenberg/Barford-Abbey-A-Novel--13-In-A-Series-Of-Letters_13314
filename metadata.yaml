@@ -1,0 +1,30 @@
+_repo: Barford-Abbey-A-Novel--13-In-A-Series-Of-Letters_13314
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Gunning, Mrs. (Susannah)
+    aliases:
+    - Minifie, Susannah
+    - Gunning, Susannah
+    - Gunning, Susannah Minifie
+    deathdate: 1800
+    gutenberg_agent_id: '4988'
+    url: http://www.gutenberg.org/2009/agents/4988
+description: ''
+gutenberg_issued: '2004-08-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13314'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Epistolary fiction, English -- 18th century'
+- !lcc 'PR'
+- !lcsh 'Gothic fiction (Literary genre)'
+title: "Barford Abbey, A Novel\r\nIn A Series Of Letters"
+url: http://www.gutenberg.org/ebooks/13314
